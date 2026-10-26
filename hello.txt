@@ -1,4 +1,4 @@
 Hello GitHub
 I am learning Git!
 Now I'm learning git pull :)
-hihihihi intelligence here
+new line
