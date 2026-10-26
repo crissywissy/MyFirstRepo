@@ -9,6 +9,6 @@ def hanoi(n, start, end, middle):
 
     hanoi(n - 1, middle, end, start)
 
-
+// test with 3 towers
 n = 3
 hanoi(n, "A", "C", "B")
